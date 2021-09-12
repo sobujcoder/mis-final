@@ -1,13 +1,14 @@
 #greetings{
-    background-color:wheat;
+    background-color:rgb(252, 250, 247);
 }
 #payable
 {
     background-color: rgb(23, 187, 160);
-    color: rgb(158, 158, 158);
+    color: rgb(250, 249, 249);
     font-size: +30;
 }
-}
+
 .edit{
-    background-color: wheat;
+    background-color: rgb(120, 108, 160);
+    cursor: pointer;
 }
